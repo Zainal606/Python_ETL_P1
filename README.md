@@ -1,0 +1,1 @@
+I made an ETL (Extract, Transform and Load) pipeline, commonly used in Data Engineering to extract the data from two json files that has a list of banks by market cap, transform them by multiplying it to a csv file that has the rates of all currencies referenced in USD, loading it into a simple csv file.
